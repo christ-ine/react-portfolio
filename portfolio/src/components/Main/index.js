@@ -14,8 +14,7 @@ const Main = () => {
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on the card title and make up the bulk of
-                                    the card's content.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
                         </Card.Text>
                                 <Button variant="primary">Go somewhere</Button>
                             </Card.Body>
