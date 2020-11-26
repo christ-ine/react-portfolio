@@ -1,12 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Header from './components/Header/index'
+import HeroSection from './components/HeroSection/index'
+import Main from './components/Main/index'
 
-function App() {
+const App = () => {
   return (
-    <div >
-      
+    <div>
+      <Header />
+      <HeroSection />
+      <Main />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
