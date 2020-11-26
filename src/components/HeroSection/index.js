@@ -1,6 +1,6 @@
-import React from 'react'
+import React from './node_modules/react'
 import HeroImage from '../../images/portimg.jpg'
-import { Button } from 'react-bootstrap'
+import { Button } from './node_modules/react-bootstrap'
 import { HeroContainer, HeroBg, ImageBg, HeroContent, HeroH1, HeroP } from './HeroElements';
 
 const HeroSection = () => {
